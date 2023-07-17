@@ -9,3 +9,28 @@ Note:
 Item API is depending on Dashoard API (due to user_id) 
 
 -> If the dashboard API is not started, then Item API will crushed also...
+
+
+VUEJS Frontend
+
+Login.vue
+
+![image](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/cbaa5e0c-347d-462a-aff1-63c140caffb0)
+
+Home.vue
+
+![image](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/d6f7875b-4416-4385-b9f5-ac965638c4a5)
+
+Item.vue
+
+![image](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/cad54b3a-0c63-47c0-b9b3-2a580e5dae00)
+
+Monitor.vue
+
+![image](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/85565948-8eaa-4ab5-baba-0126b112952f)
+
+
+Version 2
+
+
+
