@@ -1,5 +1,18 @@
 # SystemDesign_Documentation
 
+
+Divide and conquer methodology
+
+-> Break the system into 3 parts, Frontend, Backend, Frontend(Hardware)
+
+Frontend (VueJS)
+
+Backend (Java Spring + MySQL)
+
+Frontend (Hardware) - Raspberry Pi & PLC
+
+______________________________________________________________________________________________________________________________________________
+
 Version 1 ( 17/7/2023)
 
 ![Untitled Diagram drawio (6)](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/b4f38a67-76d3-4226-aed5-9a917f06d2ac)
@@ -36,6 +49,28 @@ ________________________________________________________________________________
 
 
 ![Untitled Diagram drawio (7)](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/c84bd55e-0556-4301-a492-2012ac476395)
+
+
+Kafka
+
+My simple example :
+
+https://github.com/junxian428/Spring_WebSocket_Kafka_Producer_to_NodeJS_Consumer
+
+Since 
+
+We can post request to the backend server, then we need encryption to prevent the device only send to device
+
+I guess we can send base on "permanent token"
+
+Then permanent token have the link with user_id
+
+
+_____________________________________________________________________________________________________________________________________
+
+
+
+
 
 Version 2
 
