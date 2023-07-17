@@ -30,6 +30,13 @@ Monitor.vue
 ![image](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/85565948-8eaa-4ab5-baba-0126b112952f)
 
 
+___________________________________________________________________________________________________________________________
+
+(Plans System Design Phrase 2)
+
+
+![Untitled Diagram drawio (7)](https://github.com/junxian428/SystemDesign_Documentation/assets/58724748/c84bd55e-0556-4301-a492-2012ac476395)
+
 Version 2
 
 
